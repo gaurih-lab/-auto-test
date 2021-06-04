@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-15">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/2june/jars/selenium-server-standalone-3.6.0.jar"/>
+	<classpathentry kind="lib" path="D:/2june/jars/commons-lang.jar"/>
+	<classpathentry kind="lib" path="D:/2june/jars/csvjdbc-1.0-29.jar"/>
+	<classpathentry kind="lib" path="D:/2june/jars/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/2june/jars/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/2june/jars/jersey-client-1.17.jar"/>
+	<classpathentry kind="lib" path="D:/2june/jars/jersey-core-1.17.jar"/>
+	<classpathentry kind="lib" path="D:/2june/jars/jsch-0.1.51.jar"/>
+	<classpathentry kind="lib" path="D:/2june/jars/junit.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
